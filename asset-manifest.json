@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/tokoku_app/static/css/main.2675b1a7.css",
+    "main.js": "/tokoku_app/static/js/main.8a81ab4e.js",
+    "static/media/discount-shopping-season-with-sale.jpg": "/tokoku_app/static/media/discount-shopping-season-with-sale.b0888ce02b57d2575454.jpg",
+    "index.html": "/tokoku_app/index.html",
+    "main.2675b1a7.css.map": "/tokoku_app/static/css/main.2675b1a7.css.map",
+    "main.8a81ab4e.js.map": "/tokoku_app/static/js/main.8a81ab4e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2675b1a7.css",
+    "static/js/main.8a81ab4e.js"
+  ]
+}
